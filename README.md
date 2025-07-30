@@ -37,6 +37,13 @@
     epochs=40 \
     imgsz=640
 ```
+
+### open in Google Colab 
+[![Open In Colab]](https://colab.research.google.com/drive/1IY3cwbWdetpRWfH-Qe_h8FWRKmCRfORd?usp=sharing) 
+
+(https://colab.research.google.com/drive/1hv9lqPSj9o3s8OWAjcXxYyzHyXtThxap?usp=sharing) 
+
+
 ### Sample Results
 - Trial 1:
 ![Alt text](image.png)
