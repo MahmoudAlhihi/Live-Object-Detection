@@ -39,9 +39,9 @@
 ```
 
 ### open in Google Colab 
-[![Open In Colab]](https://colab.research.google.com/drive/1IY3cwbWdetpRWfH-Qe_h8FWRKmCRfORd?usp=sharing) 
+[![Open In Colab Trial 1]](https://colab.research.google.com/drive/1IY3cwbWdetpRWfH-Qe_h8FWRKmCRfORd?usp=sharing) 
 
-(https://colab.research.google.com/drive/1hv9lqPSj9o3s8OWAjcXxYyzHyXtThxap?usp=sharing) 
+[![Open In Colab Trial 2]](https://colab.research.google.com/drive/1hv9lqPSj9o3s8OWAjcXxYyzHyXtThxap?usp=sharing) 
 
 
 ### Sample Results
