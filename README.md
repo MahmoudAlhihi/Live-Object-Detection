@@ -27,7 +27,6 @@
 ```bash
 !yolo detect train \
     model = yolo11s.pt \
-    data=/content/data.yaml \
     epochs = 60 \
     imgsz = 640
 ```
@@ -39,10 +38,12 @@
     imgsz=640
 ```
 ### Sample Results
+- Trial 1:
 ![Alt text](image.png)
 ![Alt text](image-1.png)
 ![Alt text](results1.png)
 
+- Trial 2:
 ![Alt text](image-2.png)
 ![Alt text](image-3.png)
 ![Alt text](image-4.png)
