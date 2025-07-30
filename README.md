@@ -14,8 +14,8 @@
 
 ```bash
 !python train_val_split.py --datapath="/content/custom_data" --train_pct=0.9
-
-## Enviroment
+```
+### Enviroment
 - Goggle Colab with Tesla T4 GPU
 - CUDA Version: 12.4
 - Python Libraries:
@@ -30,14 +30,14 @@
     data=/content/data.yaml \
     epochs = 60 \
     imgsz = 640
-
+```
 - Trial 2:
 ```bash
 !yolo detect train \
     model=yolo11n.pt \
     epochs=40 \
     imgsz=640
-
+```
 ### Sample Results
 ![Alt text](image.png)
 ![Alt text](image-1.png)
